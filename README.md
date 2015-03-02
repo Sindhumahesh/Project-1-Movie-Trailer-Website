@@ -11,11 +11,17 @@ language of the movie and poster image of the movie.
 
 INSTALLATIONS FOR WINDOWS
 
-https://www.python.org/downloads/windows/
-https://windows.github.com/
+Python - https://www.python.org/downloads/windows/
+
+Github - https://windows.github.com/
 
 INSTALLATIONS FOR MAC
 
-https://www.python.org/downloads/mac-osx/
-https://mac.github.com/
+Python - https://www.python.org/downloads/mac-osx/
 
+Github - https://mac.github.com/
+
+GENERAL USAGE NOTES
+
+-Once the python is installed click File-New File write code and save it.(To confirm whether python is installed or not search for IDLE)
+-IDLE is a program installed by python to run python code.
